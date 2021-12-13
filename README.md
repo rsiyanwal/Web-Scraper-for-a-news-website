@@ -2,10 +2,11 @@
 This is a webscraper for a specific website (Economic Times). It is tuned to extract the headlines of that website. With some little adjustments the webscraper is able to extract any part of the website. 
 
 # Installation
-1. Installing Selenium: Please follow the link https://selenium-python.readthedocs.io/installation.html and install the selenium.
-2. Chromedriver: Check your Chrome browser's version (Menu -> Help -> About Google Chrome) and download the relevant Chromedriver from https://sites.google.com/chromium.org/driver/home
-3. TQDM: https://pypi.org/project/tqdm/
-4. BeautifulSoup4: https://pypi.org/project/beautifulsoup4/
+Install the following:
+**1. Selenium:** Please follow the link https://selenium-python.readthedocs.io/installation.html and install the selenium.
+**2. Chromedriver:** Check your Chrome browser's version (Menu -> Help -> About Google Chrome) and download the relevant Chromedriver from https://sites.google.com/chromium.org/driver/home
+**3. TQDM:** https://pypi.org/project/tqdm/
+**4. BeautifulSoup4:** https://pypi.org/project/beautifulsoup4/
 
 # Using the webscraper
 It is important to take care of the sequence of executing these files. Please follow the sequence below:
